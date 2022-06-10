@@ -6,7 +6,7 @@ function printInput(){
     output.innerHTML = "El nombre "+input.value+" es de una Mujer";
   }
   else{
-    output.innerHTML = "El nombre "+input.value+" es de una Hombre";
+    output.innerHTML = "El nombre "+input.value+" es de un Hombre";
   }
 }
 
